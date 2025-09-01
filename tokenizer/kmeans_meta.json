@@ -1,0 +1,8 @@
+{
+  "engine": "numpy",
+  "iters": 10,
+  "inertia": 14352.78457069397,
+  "fit_seconds": 2392.0502104759216,
+  "tol": 0.0001,
+  "num_clusters": 1024
+}
